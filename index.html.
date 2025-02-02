@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio - Danielle Monteiro</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 50px; }
+        h1 { color: #2c3e50; }
+        p { font-size: 18px; }
+        .projeto { margin: 20px 0; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+    </style>
+</head>
+<body>
+    <h1>Portfólio Profissional - Danielle Monteiro</h1>
+    <p>Especialista em Gestão de Projetos, Transformação Digital e Recursos Humanos</p>
+    
+    <h2>Projetos Selecionados</h2>
+
+    <div class="projeto">
+        <h3>📌 Plataforma B2C</h3>
+        <p>Desenvolvimento de um portal que reduziu a taxa de abandono de carrinho em 20%.</p>
+    </div>
+
+    <div class="projeto">
+        <h3>📌 Implementação do SuccessFactors</h3>
+        <p>Reduziu o tempo de processamento da folha de pagamento em 15%.</p>
+    </div>
+
+    <div class="projeto">
+        <h3>📌 Automação do Controle de Ponto Eletrônico</h3>
+        <p>Redução de 40% nos custos operacionais.</p>
+    </div>
+
+    <div class="projeto">
+        <h3>📌 Chatbot para RH</h3>
+        <p>Melhoria de 50% na experiência dos colaboradores.</p>
+    </div>
+
+    <h2>📩 Contato</h2>
+    <p><a href="https://www.linkedin.com/in/daniellemonteiro-projetos-produtos/" target="_blank">LinkedIn</a></p>
+</body>
+</html>
